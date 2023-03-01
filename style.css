@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    background-image: url("images/bg.jpg");
+}
+
+h2 {
+    color: blue;
+}
+
+div {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    background-color: beige;
+}
+
+div.coffee {
+    background-image: url("images/coffe.jpg");
+}
+
+div#header {
+    background-color: mediumpurple;
+    color: white;
+}
